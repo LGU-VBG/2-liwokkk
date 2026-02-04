@@ -1,0 +1,15 @@
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\bin\Debug\net10.0\2-liwokkk.exe
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\bin\Debug\net10.0\2-liwokkk.deps.json
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\bin\Debug\net10.0\2-liwokkk.runtimeconfig.json
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\bin\Debug\net10.0\2-liwokkk.dll
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\bin\Debug\net10.0\2-liwokkk.pdb
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\obj\Debug\net10.0\2-liwokkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\obj\Debug\net10.0\2-liwokkk.AssemblyInfoInputs.cache
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\obj\Debug\net10.0\2-liwokkk.AssemblyInfo.cs
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\obj\Debug\net10.0\2-liwokkk.csproj.CoreCompileInputs.cache
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\obj\Debug\net10.0\2-liwokkk.sourcelink.json
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\obj\Debug\net10.0\2-liwokkk.dll
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\obj\Debug\net10.0\refint\2-liwokkk.dll
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\obj\Debug\net10.0\2-liwokkk.pdb
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\obj\Debug\net10.0\2-liwokkk.genruntimeconfig.cache
+C:\Users\kkoyui\Desktop\программирование\2-liwokkk\obj\Debug\net10.0\ref\2-liwokkk.dll
